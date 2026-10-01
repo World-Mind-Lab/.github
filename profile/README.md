@@ -1,7 +1,7 @@
-<h2 align="center">World Mind Lab • 心象实验室</h2>
+<h2 align="center">World Mind Lab</h2>
 
 <p align="center">
-  <em>Within the mind lies the entire physical world / 心中自有世间万象</em><br>
+  <em>Within the mind lies the entire physical world</em><br>
 </p>
 
 <!-- <p style="margin-top: 10px;">
